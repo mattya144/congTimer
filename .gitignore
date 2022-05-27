@@ -1,2 +1,7 @@
 node_modules/
+#buid file
 dist/
+
+.DS_Store
+# npm version
+.node-version

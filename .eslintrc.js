@@ -81,7 +81,7 @@ module.exports = {
       'error',
       {
         html: 'enforce',
-        custom: 'enforce',
+        custom: 'ignore',
         explicitSpread: 'ignore,',
       },
     ],

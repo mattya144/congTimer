@@ -62,9 +62,11 @@
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.2.5",
     "@mui/material": "^5.2.5",
+    "@mui/styles": "^5.3.0",
     "file-loader": "^6.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.25.1",
     "react-router": "^6.2.1",
     "react-router-dom": "^6.2.1",
     "url-loader": "^4.1.1"
